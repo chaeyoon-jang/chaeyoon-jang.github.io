@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Discovering Multiple Algorithm Configurations"
-date:   2023-03-14 22:21:59 +00:00
-image: /images/modecfg.png
+title:  "Dimension Agnostic Neural Processes"
+date:   2025-02-28 00:00:00 +00:00
+image: /images/danp25.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "International Conference on Robotics and Automation"
-arxiv: https://arxiv.org/abs/2303.07434
-code: https://github.com/leonidk/modecfg
-website: https://leonidk.github.io/modecfg
-youtube: https://www.youtube.com/watch?v=r2426BR4r8o
+author: "Chaeyun Jang"
+authors: "<strong>Hyungi Lee</strong>, Chaeyun Jang, Dongbok Lee, Juho Lee"
+venue: "ICLR 2025"  
+arxiv: https://arxiv.org/abs/2502.20661  
+website: https://pure.kaist.ac.kr/en/publications/dimension-agnostic-neural-processes/  
 ---
-We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry. 
+Dimension Agnostic Neural Processes (DANP) introduces a new meta-learning framework that can handle diverse input and output dimensions via a Dimension Aggregator Block, transforming features into fixed-dimensional representations. Extensive experiments on synthetic regression tasks, image/video completion, and Bayesian optimization show that DANP outperforms previous Neural Process variants. :contentReference[oaicite:0]{index=0}

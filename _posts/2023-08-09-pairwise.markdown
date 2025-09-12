@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Optimizing Algorithms From Pairwise User Preferences"
-date:   2023-08-09 22:21:59 +00:00
-image: /images/pairwise.png
+title:  "Reliable Decision‑Making via Calibration‑Oriented Retrieval‑Augmented Generation"
+date:   2024-10-28 00:00:00 +00:00
+image: /images/calibrated_dm24.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Katherine Shih, Martial Hebert, Aaron Steinfeld"
-venue: "International Conference on Intelligent Robots and Systems"
-arxiv: https://arxiv.org/abs/2308.04571
-code: https://github.com/leonidk/pairwise
-website: https://leonidk.github.io/pairwise
+author: "Chaeyun Jang"
+authors: "<strong>Chaeyun Jang</strong>, Hyungi Lee, Seanie Lee, Juho Lee"
+venue: "arXiv (preprint)"  
+arxiv: https://arxiv.org/abs/2411.08891  
+code: https://github.com/chaeyoon-jang/calibrag.git
+website: https://arxiv.org/abs/2411.08891
 ---
-We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
+Recent work introduces *CalibRAG*, a retrieval-augmented generation method designed to ensure that decisions informed by LLMs are well calibrated, using forecasting functions to assess decision correctness. Empirical results show CalibRAG improves calibration and accuracy over baseline RAG methods across multiple datasets. :contentReference[oaicite:0]{index=0}
