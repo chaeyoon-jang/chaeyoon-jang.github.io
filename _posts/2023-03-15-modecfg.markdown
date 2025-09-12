@@ -5,7 +5,7 @@ date:   2025-02-28 00:00:00 +00:00
 image: /images/danp25.png
 categories: research
 author: "Chaeyun Jang"
-authors: "Hyungi Lee, <strong>Chaeyun Jang<strong>, Dongbok Lee, Juho Lee"
+authors: "Hyungi Lee, <strong>Chaeyun Jang</strong>, Dongbok Lee, Juho Lee"
 venue: "ICLR 2025"  
 arxiv: https://arxiv.org/abs/2502.20661  
 website: https://pure.kaist.ac.kr/en/publications/dimension-agnostic-neural-processes/  
