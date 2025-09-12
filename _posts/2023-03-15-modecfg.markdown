@@ -5,9 +5,9 @@ date:   2025-02-28 00:00:00 +00:00
 image: /images/danp25.png
 categories: research
 author: "Chaeyun Jang"
-authors: "<strong>Hyungi Lee</strong>, Chaeyun Jang, Dongbok Lee, Juho Lee"
+authors: "Hyungi Lee, <strong>Chaeyun Jang<strong>, Dongbok Lee, Juho Lee"
 venue: "ICLR 2025"  
 arxiv: https://arxiv.org/abs/2502.20661  
 website: https://pure.kaist.ac.kr/en/publications/dimension-agnostic-neural-processes/  
 ---
-Dimension Agnostic Neural Processes (DANP) introduces a new meta-learning framework that can handle diverse input and output dimensions via a Dimension Aggregator Block, transforming features into fixed-dimensional representations. Extensive experiments on synthetic regression tasks, image/video completion, and Bayesian optimization show that DANP outperforms previous Neural Process variants. :contentReference[oaicite:0]{index=0}
+Dimension Agnostic Neural Processes (DANP) introduces a new meta-learning framework that can handle diverse input and output dimensions via a Dimension Aggregator Block, transforming features into fixed-dimensional representations. Extensive experiments on synthetic regression tasks, image/video completion, and Bayesian optimization show that DANP outperforms previous Neural Process variants.

@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/2411.06710
 code: https://github.com/chaeyoon-jang/bomf.git
 website: https://pure.kaist.ac.kr/en/publications/model-fusion-through-bayesian-optimization-in-language-model-fine/
 ---
-We introduce a novel model fusion technique, **BOMF**, that optimizes both the desired metric and loss via multi-objective Bayesian optimization, guided by a two-stage hyperparameter search. Experiments across diverse downstream tasks demonstrate performance improvements when combining fine-tuned models under this framework. :contentReference[oaicite:0]{index=0}
+We introduce a novel model fusion technique, **BOMF**, that optimizes both the desired metric and loss via multi-objective Bayesian optimization, guided by a two-stage hyperparameter search. Experiments across diverse downstream tasks demonstrate performance improvements when combining fine-tuned models under this framework.
