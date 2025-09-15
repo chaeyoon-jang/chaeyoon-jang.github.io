@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/2411.08891
 code: https://github.com/chaeyoon-jang/calibrag.git
 website: https://arxiv.org/abs/2411.08891
 ---
-Recent work introduces *CalibRAG*, a retrieval-augmented generation method designed to ensure that decisions informed by LLMs are well calibrated, using forecasting functions to assess decision correctness. Empirical results show CalibRAG improves calibration and accuracy over baseline RAG methods across multiple datasets.
+Recent work introduces CalibRAG, a retrieval-augmented generation method designed to ensure that decisions informed by LLMs are well calibrated, using forecasting functions to assess decision correctness.
