@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reliable Decision‑Making via Calibration‑Oriented Retrieval‑Augmented Generation"
-date:   2025-09-18 00:00:00 +00:00
+date:   2024-10-28 00:00:00 +00:00
 image: /images/calibrated_dm24.png
 categories: research
 author: "Chaeyun Jang"
@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/2411.08891
 code: https://github.com/chaeyoon-jang/calibrag.git
 website: https://arxiv.org/abs/2411.08891
 ---
-Recent work introduces CalibRAG, a retrieval-augmented generation method designed to ensure that decisions informed by LLMs are well calibrated, using forecasting functions to assess decision correctness.
+Recent work introduces CalibRAG, a retrieval-augmented generation method designed to ensure that decisions informed by LLMs are well calibrated, using forecasting functions to assess decision correctness. 
