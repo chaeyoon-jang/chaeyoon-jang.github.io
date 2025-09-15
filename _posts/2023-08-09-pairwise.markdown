@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reliable Decision‑Making via Calibration‑Oriented Retrieval‑Augmented Generation"
-date:   2024-10-28 00:00:00 +00:00
+date:   2025-09-18 00:00:00 +00:00
 image: /images/calibrated_dm24.png
 categories: research
 author: "Chaeyun Jang"
