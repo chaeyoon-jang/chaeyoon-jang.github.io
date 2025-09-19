@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Reliable Decision‑Making via Calibration‑Oriented Retrieval‑Augmented Generation"
-date:   2024-10-28 00:00:00 +00:00
+date:   2025-09-18 00:00:00 +00:00
 image: /images/calibrated_dm24.png
 categories: research
 author: "Chaeyun Jang"
-authors: "<strong>Chaeyun Jang</strong>, Hyungi Lee, Seanie Lee, Juho Lee"
-venue: "arXiv (preprint)"  
-arxiv: https://arxiv.org/abs/2411.08891  
+authors: "<strong>Chaeyun Jang</strong>, Deukhwan Cho, Hyungi Lee, Seanie Lee, Juho Lee"
+venue: "NeurIPS"    
 code: https://github.com/chaeyoon-jang/calibrag.git
-website: https://arxiv.org/abs/2411.08891
+website: https://openreview.net/forum?id=Rgk129n73h&referrer=%5Bthe%20profile%20of%20Chaeyun%20Jang%5D(%2Fprofile%3Fid%3D~Chaeyun_Jang1)
 ---
 Recent work introduces CalibRAG, a retrieval-augmented generation method designed to ensure that decisions informed by LLMs are well calibrated, using forecasting functions to assess decision correctness. 
