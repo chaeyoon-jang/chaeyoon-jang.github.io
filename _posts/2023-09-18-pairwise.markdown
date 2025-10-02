@@ -5,7 +5,7 @@ date:   2025-09-18 00:00:00 +00:00
 image: /images/calibrated_dm24.png
 categories: research
 author: "Chaeyun Jang"
-authors: "<strong>Chaeyun Jang</strong>, Deukhwan Cho, Hyungi Lee, Seanie Lee, Juho Lee"
+authors: "<strong>Chaeyun Jang</strong>, Deukhwan Cho, Seanie Lee, Hyungi Lee, Juho Lee"
 venue: "NeurIPS"    
 code: https://github.com/chaeyoon-jang/calibrag.git
 website: https://openreview.net/forum?id=Rgk129n73h&referrer=%5Bthe%20profile%20of%20Chaeyun%20Jang%5D(%2Fprofile%3Fid%3D~Chaeyun_Jang1)
