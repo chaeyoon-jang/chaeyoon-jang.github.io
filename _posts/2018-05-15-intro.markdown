@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Introspective Neural Networks"
-date:   2018-05-15 21:21:53 +00:00
-image: /images/intro.jpg
-categories: CMU
-course: "16-824: Visual Learning and Recognition"
-author: "Leo Keselman"
-paper: /pdfs/16824_snpowers_lkeselma.pdf
+title:  "Bridging the Missing-Modality Gap: Improving Text-Only Calibration of Vision Language Models"
+date:   2026-03-02 00:00:00 +00:00
+image: /images/mm.png
+categories: research
+author: "Chaeyun Jang"
+authors: "Mingyeong Kim, Mingyeong_Kim, Jungwon Choi, <strong>Chaeyun Jang</strong>, Juho Lee"
+venue: "ICLR Trustworthy AI Workshop"
+website: https://openreview.net/forum?id=ATL8VtvYWd&referrer=%5Bthe%20profile%20of%20Chaeyun%20Jang%5D(%2Fprofile%3Fid%3D~Chaeyun_Jang1)
 ---
-Using pre-trained neural networks to improve fine grained recognition via style transfer. 
-
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
+We shows that VLMs can become severely overconfident when applied to text-only inputs, and proposes a lightweight latent-imagination module that reconstructs pseudo-visual embeddings from text to restore both accuracy and calibration.
