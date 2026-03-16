@@ -5,7 +5,7 @@ date:   2026-03-02 00:00:00 +00:00
 image: /images/mm.png
 categories: research
 author: "Chaeyun Jang"
-authors: "Mingyeong Kim, Mingyeong_Kim, Jungwon Choi, <strong>Chaeyun Jang</strong>, Juho Lee"
+authors: "Mingyeong Kim, Jungwon Choi, <strong>Chaeyun Jang</strong>, Juho Lee"
 venue: "ICLR Trustworthy AI Workshop"
 website: https://openreview.net/forum?id=ATL8VtvYWd&referrer=%5Bthe%20profile%20of%20Chaeyun%20Jang%5D(%2Fprofile%3Fid%3D~Chaeyun_Jang1)
 ---
