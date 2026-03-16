@@ -6,7 +6,7 @@ image: /images/danp25.png
 categories: research
 author: "Chaeyun Jang"
 authors: "Hyungi Lee, <strong>Chaeyun Jang</strong>, Dongbok Lee, Juho Lee"
-venue: "<strong style='color:hotpink;'>ICLR</strong>"  
+venue: "<strong style='color:purple;'>ICLR</strong>"  
 arxiv: https://arxiv.org/abs/2502.20661  
 website: https://pure.kaist.ac.kr/en/publications/dimension-agnostic-neural-processes/  
 ---
