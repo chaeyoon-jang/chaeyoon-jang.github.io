@@ -6,7 +6,7 @@ image: /images/mm.png
 categories: research
 author: "Chaeyun Jang"
 authors: "Mingyeong Kim, Jungwon Choi, <strong>Chaeyun Jang</strong>, Juho Lee"
-venue: "ICLR Trustworthy AI Workshop"
+venue: "<strong style='color:#6366f1;'>ICLR</strong> Trustworthy AI Workshop"
 website: https://openreview.net/forum?id=ATL8VtvYWd&referrer=%5Bthe%20profile%20of%20Chaeyun%20Jang%5D(%2Fprofile%3Fid%3D~Chaeyun_Jang1)
 ---
 We shows that VLMs can become severely overconfident when applied to text-only inputs, and proposes a lightweight latent-imagination module that reconstructs pseudo-visual embeddings from text to restore both accuracy and calibration.

@@ -6,7 +6,7 @@ image: /images/vconf25.png
 categories: research
 author: "Chaeyun Jang"
 authors: "<strong>Chaeyun Jang</strong>, Moonseok Choi, Yegon Kim, Hyungi Lee, Juho Lee"
-venue: "ICML R2-FM Workshop"
+venue: "<strong style='color:#6366f1;'>ICML</strong> R2-FM Workshop"
 arxiv: https://arxiv.org/abs/2506.03723
 website: https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pFo8UcAAAAAJ&citation_for_view=pFo8UcAAAAAJ:UeHWp8X0CEIC
 ---

@@ -6,7 +6,7 @@ image: /images/bomf24.png
 categories: research
 author: "Chaeyun Jang"
 authors: "<strong>Chaeyun Jang</strong>, Hyungi Lee, Jungtaek Kim, Juho Lee"
-venue: "<strong style='color:purple;'>NeurIPS (Spotlight)</strong>"
+venue: "<strong style='color:#6366f1;'>NeurIPS (Spotlight)</strong>"
 arxiv: https://arxiv.org/abs/2411.06710
 code: https://github.com/chaeyoon-jang/bomf.git
 website: https://pure.kaist.ac.kr/en/publications/model-fusion-through-bayesian-optimization-in-language-model-fine/
