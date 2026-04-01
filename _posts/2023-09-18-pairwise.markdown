@@ -6,7 +6,7 @@ image: /images/calibrated_dm24.png
 categories: research
 author: "Chaeyun Jang"
 authors: "<strong>Chaeyun Jang</strong>, Deukhwan Cho, Seanie Lee, Hyungi Lee, Juho Lee"
-venue: "<strong style='color:#6366f1;'>NeurIPS 2024 Spotlight</strong> (top 2.1%, 327/15671)"
+venue: "<strong style='color:#6366f1;'>NeurIPS</strong>"
 code: https://github.com/chaeyoon-jang/calibrag.git
 arxiv: https://arxiv.org/abs/2411.08891
 website: https://openreview.net/forum?id=Rgk129n73h&referrer=%5Bthe%20profile%20of%20Chaeyun%20Jang%5D(%2Fprofile%3Fid%3D~Chaeyun_Jang1)
