@@ -31,8 +31,8 @@
       <td style="padding:0px">
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr style="padding:0px">
-            <td style="padding:2.5%;width:100%;vertical-align:middle;text-align:center">
-              <img style="width:60%;max-width:360px;border-radius:12px;" alt="profile photo" src="images/IMG_3945.jpg">
+            <td style="padding:2.5%;width:100%;vertical-align:middle;text-align:left">
+              <img style="width:auto;max-width:220px;border-radius:12px;" alt="profile photo" src="images/IMG_3945.jpg">
             </td>
           </tr>
           <tr style="padding:0px">
@@ -100,26 +100,9 @@
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
               {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.youtube %}
-              <a href="{{post.youtube}}">youtube</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
             </td>
           </tr>
           {% endif %}
@@ -183,8 +166,6 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
-              <p></p>
-              {{ post.excerpt }}
             </td>
           </tr>
           {% endif %}
@@ -252,8 +233,6 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
-              <p></p>
-              {{ post.excerpt }}
             </td>
           </tr>
           {% endif %}
